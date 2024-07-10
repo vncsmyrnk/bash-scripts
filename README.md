@@ -9,11 +9,11 @@ Collection of useful bash scripts.
 To download and run any script, just run the following commands:
 
 ```bash
-wget https://raw.githubusercontent.com/vncsmyrnk/bash-scripts/main/file.sh && chmod +x file.sh
+bash <(curl -s https://raw.githubusercontent.com/vncsmyrnk/bash-scripts/main/{NAME}.sh)
 ```
 
 Example:
 
 ```bash
-wget https://raw.githubusercontent.com/vncsmyrnk/bash-scripts/main/generate-new-ssh-key.sh && chmod +x generate-new-ssh-key.sh
+bash <(curl -s https://raw.githubusercontent.com/vncsmyrnk/bash-scripts/main/docker-remove-all-images.sh)
 ```
