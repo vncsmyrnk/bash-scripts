@@ -17,3 +17,6 @@ Example:
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/vncsmyrnk/bash-scripts/main/docker-remove-all-images.sh)
 ```
+
+> [!WARNING]
+> This is no longer maintained in favor of https://github.com/vncsmyrnk/zsh-config. _Scripts_ can be added there, along with the _zsh_ config.
